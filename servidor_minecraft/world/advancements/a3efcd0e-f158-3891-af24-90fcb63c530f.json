@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-30 22:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-03-30 22:25:20 +0000"
@@ -230,6 +236,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-03-30 22:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-03-30 22:46:14 +0000"
     },
     "done": true
   },
@@ -492,9 +504,13 @@
     "criteria": {
       "minecraft:forest": "2025-03-30 22:11:42 +0000",
       "minecraft:mountains": "2025-03-30 22:30:31 +0000",
+      "minecraft:birch_forest": "2025-03-30 22:45:33 +0000",
       "minecraft:dark_forest": "2025-03-30 22:15:01 +0000",
       "minecraft:river": "2025-03-30 22:16:35 +0000",
+      "minecraft:birch_forest_hills": "2025-03-30 22:45:24 +0000",
+      "minecraft:wooded_mountains": "2025-03-30 22:43:17 +0000",
       "minecraft:wooded_hills": "2025-03-30 22:26:47 +0000",
+      "minecraft:savanna": "2025-03-30 22:46:24 +0000",
       "minecraft:plains": "2025-03-30 22:12:16 +0000"
     },
     "done": false
