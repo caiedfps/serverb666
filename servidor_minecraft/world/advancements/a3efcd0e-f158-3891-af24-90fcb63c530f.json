@@ -1256,10 +1256,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-03-31 00:50:41 +0000",
       "minecraft:forest": "2025-03-30 22:11:42 +0000",
       "minecraft:mountains": "2025-03-30 22:30:31 +0000",
       "minecraft:desert_hills": "2025-03-31 00:25:47 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-31 00:50:31 +0000",
       "minecraft:desert": "2025-03-30 22:54:27 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-31 00:51:20 +0000",
       "minecraft:birch_forest": "2025-03-30 22:45:33 +0000",
       "minecraft:warm_ocean": "2025-03-30 23:18:04 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-30 23:17:43 +0000",

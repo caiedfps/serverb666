@@ -47,6 +47,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-31 00:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-31 00:46:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-03-30 23:21:00 +0000"
@@ -247,6 +259,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-31 00:51:49 +0000",
       "chicken": "2025-03-30 23:35:53 +0000",
       "sweet_berries": "2025-03-31 00:42:00 +0000",
       "cooked_beef": "2025-03-30 23:51:01 +0000",
@@ -399,6 +412,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-03-30 23:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-31 00:45:20 +0000"
     },
     "done": true
   },
@@ -945,6 +964,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-30 23:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-31 00:45:20 +0000"
     },
     "done": true
   },

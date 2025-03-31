@@ -373,6 +373,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-03-31 00:52:40 +0000",
       "beef": "2025-03-30 22:27:30 +0000",
       "mutton": "2025-03-30 22:27:34 +0000",
       "bread": "2025-03-30 22:28:58 +0000",
@@ -577,6 +578,13 @@
       "has_bed": "2025-03-30 22:29:40 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-03-31 00:53:04 +0000",
+      "minecraft:cow": "2025-03-31 00:51:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -1804,6 +1812,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-03-30 22:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-31 00:51:06 +0000"
     },
     "done": true
   },
