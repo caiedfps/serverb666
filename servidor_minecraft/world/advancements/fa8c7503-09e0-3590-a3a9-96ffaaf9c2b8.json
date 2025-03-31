@@ -783,7 +783,8 @@
       "minecraft:skeleton": "2025-03-30 23:47:25 +0000",
       "minecraft:spider": "2025-03-31 00:19:05 +0000",
       "minecraft:creeper": "2025-03-31 00:18:19 +0000",
-      "minecraft:zombie": "2025-03-30 22:16:01 +0000"
+      "minecraft:zombie": "2025-03-30 22:16:01 +0000",
+      "minecraft:zombie_villager": "2025-03-31 02:18:33 +0000"
     },
     "done": false
   },
