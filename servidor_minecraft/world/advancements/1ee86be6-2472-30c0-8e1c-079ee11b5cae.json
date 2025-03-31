@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-03-31 02:35:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 01:43:29 +0000"
@@ -646,6 +652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-31 02:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-03-31 01:44:51 +0000"
@@ -692,6 +704,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-03-31 01:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-31 02:38:45 +0000"
     },
     "done": true
   },
@@ -797,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-31 02:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-03-31 01:54:27 +0000"
@@ -836,6 +860,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-03-31 01:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-31 02:35:33 +0000"
     },
     "done": true
   },
@@ -1184,6 +1214,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-03-31 01:30:10 +0000",
+      "minecraft:mountains": "2025-03-31 02:35:45 +0000",
       "minecraft:taiga": "2025-03-31 01:33:25 +0000",
       "minecraft:taiga_hills": "2025-03-31 01:33:51 +0000",
       "minecraft:birch_forest": "2025-03-31 02:18:21 +0000",
