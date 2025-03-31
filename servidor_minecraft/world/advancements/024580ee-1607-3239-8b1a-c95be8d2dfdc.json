@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-31 01:04:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-03-30 22:11:21 +0000"
@@ -182,6 +188,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-03-31 00:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-31 01:02:29 +0000"
     },
     "done": true
   },
@@ -224,6 +236,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2025-03-31 00:25:37 +0000",
+      "porkchop": "2025-03-31 00:55:34 +0000",
       "apple": "2025-03-31 00:21:25 +0000",
       "rabbit": "2025-03-31 00:32:45 +0000",
       "mutton": "2025-03-31 00:26:25 +0000",
@@ -408,14 +421,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-03-30 22:10:45 +0000",
+      "minecraft:mountains": "2025-03-31 00:56:05 +0000",
+      "minecraft:taiga": "2025-03-31 01:02:37 +0000",
       "minecraft:desert_hills": "2025-03-31 00:32:01 +0000",
+      "minecraft:taiga_hills": "2025-03-31 01:03:23 +0000",
       "minecraft:desert": "2025-03-31 00:32:23 +0000",
       "minecraft:birch_forest": "2025-03-31 00:28:57 +0000",
       "minecraft:savanna_plateau": "2025-03-31 00:41:04 +0000",
       "minecraft:beach": "2025-03-31 00:46:04 +0000",
       "minecraft:dark_forest": "2025-03-31 00:21:54 +0000",
       "minecraft:river": "2025-03-31 00:23:23 +0000",
+      "minecraft:wooded_mountains": "2025-03-31 00:56:24 +0000",
       "minecraft:wooded_hills": "2025-03-31 00:24:59 +0000",
+      "minecraft:swamp": "2025-03-31 00:59:44 +0000",
       "minecraft:savanna": "2025-03-31 00:40:50 +0000",
       "minecraft:plains": "2025-03-30 22:11:23 +0000"
     },
@@ -629,6 +647,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-03-31 00:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-31 01:02:29 +0000"
     },
     "done": true
   },
