@@ -286,3 +286,45 @@
 [01:36:22] [Server thread/INFO]: pepe774 has made the advancement [Monster Hunter]
 [01:36:44] [Server thread/INFO]: SABA_WUAT0N lost connection: Disconnected
 [01:36:44] [Server thread/INFO]: SABA_WUAT0N left the game
+[01:37:47] [Server thread/INFO]: SABA_WUAT0N[/127.191.5.193:51909] logged in with entity id 242982 at (-389.1285214100567, 65.0, 2262.3513460993568)
+[01:37:47] [Server thread/INFO]: SABA_WUAT0N joined the game
+[01:37:55] [Server thread/INFO]: pepe774 lost connection: Disconnected
+[01:37:55] [Server thread/INFO]: pepe774 left the game
+[01:39:15] [Server thread/INFO]: pepe774[/127.58.157.31:51013] logged in with entity id 244013 at (-173.46583052993867, 64.1212968405392, 603.1270480270275)
+[01:39:15] [Server thread/INFO]: pepe774 joined the game
+[01:40:37] [Server thread/INFO]: pepe774 was shot by Skeleton
+[01:41:50] [Server thread/INFO]: pepe774 has made the advancement [Stone Age]
+[01:42:18] [Server thread/INFO]: pepe774 has made the advancement [Getting an Upgrade]
+[01:42:49] [Server thread/INFO]: soheljr47 has made the advancement [Acquire Hardware]
+[01:43:29] [Server thread/INFO]: pepe774 has made the advancement [Acquire Hardware]
+[01:43:37] [Server thread/WARN]: SABA_WUAT0N was kicked for floating too long!
+[01:43:37] [Server thread/INFO]: SABA_WUAT0N lost connection: Flying is not enabled on this server
+[01:43:37] [Server thread/INFO]: SABA_WUAT0N left the game
+[01:43:37] [Server thread/WARN]: handleDisconnection() called twice
+[01:43:44] [Server thread/INFO]: SABA_WUAT0N[/127.191.5.193:59965] logged in with entity id 247519 at (-395.0719166149723, 83.05714290482693, 2266.4826348751703)
+[01:43:44] [Server thread/INFO]: SABA_WUAT0N joined the game
+[01:43:45] [Server thread/INFO]: <soheljr47> saba wuaton perkin
+[01:43:50] [Server thread/WARN]: SABA_WUAT0N was kicked for floating too long!
+[01:43:50] [Server thread/INFO]: SABA_WUAT0N lost connection: Flying is not enabled on this server
+[01:43:50] [Server thread/INFO]: SABA_WUAT0N left the game
+[01:44:01] [Server thread/INFO]: pepe774 has made the advancement [Isn't It Iron Pick]
+[01:44:07] [Server thread/INFO]: SABA_WUAT0N[/127.191.5.193:48033] logged in with entity id 247784 at (-395.0719166149723, 83.05714290482693, 2266.4826348751703)
+[01:44:07] [Server thread/INFO]: SABA_WUAT0N joined the game
+[01:44:11] [Server thread/WARN]: SABA_WUAT0N was kicked for floating too long!
+[01:44:12] [Server thread/INFO]: SABA_WUAT0N lost connection: Flying is not enabled on this server
+[01:44:12] [Server thread/INFO]: SABA_WUAT0N left the game
+[01:44:14] [Server thread/INFO]: SABA_WUAT0N[/127.191.5.193:59589] logged in with entity id 247857 at (-395.0719166149723, 83.05714290482693, 2266.4826348751703)
+[01:44:14] [Server thread/INFO]: SABA_WUAT0N joined the game
+[01:44:19] [Server thread/WARN]: SABA_WUAT0N was kicked for floating too long!
+[01:44:19] [Server thread/INFO]: SABA_WUAT0N lost connection: Flying is not enabled on this server
+[01:44:19] [Server thread/INFO]: SABA_WUAT0N left the game
+[01:44:26] [Server thread/INFO]: <pepe774> saba perkin salte
+[01:44:51] [Server thread/INFO]: pepe774 has made the advancement [Diamonds!]
+[01:45:04] [Server thread/INFO]: SABA_WUAT0N[/127.191.5.193:34049] logged in with entity id 248595 at (-395.0719166149723, 83.05714290482693, 2266.4826348751703)
+[01:45:04] [Server thread/INFO]: SABA_WUAT0N joined the game
+[01:45:14] [Server thread/INFO]: <SABA_WUAT0N> soe perkinql
+[01:45:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=65, z=2584} fx{x=722, y=64, z=2583}
+[01:45:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=65, z=2584} fx{x=722, y=64, z=2583}
+[01:45:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=722, y=65, z=2584} fx{x=722, y=64, z=2583}
+[01:46:33] [Server thread/INFO]: Villager bfj['Librarian'/223595, l='ServerLevel[world]', x=-406.46, y=63.94, z=2258.73] died, message: 'Librarian was slain by cleme5578'
+[01:46:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-407, y=65, z=2261} fx{x=-409, y=64, z=2261}
