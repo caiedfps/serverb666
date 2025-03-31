@@ -253,6 +253,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-31 00:41:14 +0000",
       "cooked_mutton": "2025-03-30 23:18:15 +0000",
       "cooked_beef": "2025-03-30 22:58:37 +0000",
       "cooked_chicken": "2025-03-31 00:19:25 +0000"
@@ -481,6 +482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-31 00:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-30 23:02:41 +0000"
@@ -580,6 +587,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-30 22:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-31 00:43:43 +0000"
     },
     "done": true
   },
@@ -1152,6 +1165,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-30 23:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-31 00:43:43 +0000"
     },
     "done": true
   },
