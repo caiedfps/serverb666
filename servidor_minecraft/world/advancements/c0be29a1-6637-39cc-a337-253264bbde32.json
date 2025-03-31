@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-31 01:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-30 22:32:43 +0000"
@@ -255,6 +261,7 @@
     "criteria": {
       "cooked_mutton": "2025-03-31 00:46:52 +0000",
       "cooked_beef": "2025-03-30 22:26:11 +0000",
+      "apple": "2025-03-31 01:18:17 +0000",
       "mutton": "2025-03-30 23:37:17 +0000"
     },
     "done": false
@@ -340,6 +347,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-30 23:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-31 01:24:36 +0000"
     },
     "done": true
   },
@@ -633,7 +646,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-03-31 00:41:14 +0000"
+      "minecraft:spider": "2025-03-31 00:41:14 +0000",
+      "minecraft:zombie": "2025-03-31 01:21:20 +0000"
     },
     "done": false
   },
