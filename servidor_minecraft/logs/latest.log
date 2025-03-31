@@ -449,3 +449,33 @@
 [02:56:13] [Server thread/INFO]: pepe774 has made the advancement [Hidden in the Depths]
 [02:57:05] [Server thread/INFO]: pepe774 has made the advancement [Those Were the Days]
 [02:57:16] [Server thread/INFO]: pepe774 has made the advancement [War Pigs]
+[02:59:37] [Server thread/INFO]: pepe774 tried to swim in lava
+[02:59:43] [Server thread/INFO]: <jorgesamsung> jajajaajaj
+[02:59:53] [Server thread/INFO]: <pepe774> ???
+[03:00:00] [Server thread/INFO]: <pepe774> me suicide wons
+[03:00:19] [Server thread/INFO]: <jorgesamsung> aaaa
+[03:00:25] [Server thread/INFO]: <jorgesamsung> ya hno enfasi nma
+[03:04:28] [Server thread/WARN]: Boat (vehicle of soheljr47) moved wrongly! 0.3800637535268834
+[03:04:28] [Server thread/WARN]: Boat (vehicle of soheljr47) moved wrongly! 0.7718540895587012
+[03:04:28] [Server thread/WARN]: Boat (vehicle of soheljr47) moved wrongly! 0.9703396157235602
+[03:04:28] [Server thread/WARN]: Boat (vehicle of soheljr47) moved wrongly! 1.3569954907618467
+[03:04:28] [Server thread/WARN]: Boat (vehicle of soheljr47) moved wrongly! 1.53512223680832
+[03:04:28] [Server thread/WARN]: Boat (vehicle of soheljr47) moved wrongly! 1.8236026858714922
+[03:04:28] [Server thread/WARN]: Boat (vehicle of soheljr47) moved wrongly! 2.1944915656511057
+[03:04:59] [Server thread/WARN]: Boat (vehicle of soheljr47) moved too quickly! 4.961667668026166,8.74264133443603E-6,-9.096879427876047
+[03:04:59] [Server thread/WARN]: Boat (vehicle of soheljr47) moved too quickly! 5.185914715963008,8.74264133443603E-6,-9.423120637513875
+[03:04:59] [Server thread/WARN]: Boat (vehicle of soheljr47) moved too quickly! 5.418065448604921,8.74264133443603E-6,-9.742818138650364
+[03:04:59] [Server thread/WARN]: Boat (vehicle of soheljr47) moved too quickly! 5.658076641514981,8.74264133443603E-6,-10.055731411193847
+[03:04:59] [Server thread/WARN]: Boat (vehicle of soheljr47) moved too quickly! 5.905770970227195,8.74264133443603E-6,-10.361768659494828
+[03:04:59] [Server thread/WARN]: Boat (vehicle of soheljr47) moved too quickly! 6.160969763651792,8.74264133443603E-6,-10.660832563750319
+[03:07:07] [Server thread/INFO]: pepe774 burned to death
+[03:09:33] [Server thread/INFO]: pepe774 lost connection: Disconnected
+[03:09:33] [Server thread/INFO]: pepe774 left the game
+[03:11:24] [Server thread/INFO]: jorgesamsung lost connection: Disconnected
+[03:11:24] [Server thread/INFO]: jorgesamsung left the game
+[03:15:59] [Server thread/INFO]: pepe774[/127.58.157.31:34539] logged in with entity id 303043 at (-298.12820192542745, 71.0, 546.8626872065852)
+[03:15:59] [Server thread/INFO]: pepe774 joined the game
+[03:17:04] [Server thread/INFO]: Villager bfj['Farmer'/240207, l='ServerLevel[world]', x=729.60, y=63.95, z=2602.30] died, message: 'Farmer was slain by Zombie'
+[03:17:13] [Server thread/INFO]: Villager bfj['Farmer'/264966, l='ServerLevel[world]', x=724.60, y=64.00, z=2602.30] died, message: 'Farmer was slain by Zombie'
+[03:17:20] [Server thread/INFO]: <Stuzcy17> zzz whip
+[03:19:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3528, y=64, z=-6480} fx{x=3528, y=62, z=-6480}
