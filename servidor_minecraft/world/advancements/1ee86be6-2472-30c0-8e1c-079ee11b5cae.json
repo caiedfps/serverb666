@@ -251,6 +251,7 @@
       "cooked_mutton": "2025-03-31 01:58:11 +0000",
       "sweet_berries": "2025-03-31 01:34:01 +0000",
       "spider_eye": "2025-03-31 01:36:30 +0000",
+      "bread": "2025-03-31 02:33:55 +0000",
       "cooked_chicken": "2025-03-31 02:01:36 +0000"
     },
     "done": false
@@ -603,6 +604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-31 02:28:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-31 01:56:27 +0000"
@@ -886,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-03-31 02:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-03-31 02:12:13 +0000"
@@ -1015,6 +1028,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-31 01:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-31 02:28:55 +0000"
     },
     "done": true
   },
